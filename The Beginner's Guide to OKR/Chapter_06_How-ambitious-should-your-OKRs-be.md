@@ -23,7 +23,7 @@ At the same time, it’s important that we don’t become complacent with achiev
 
 We need to maintain the discipline to try to achieve 100% of our goals, even though most of the time we will “fall short”.
 
-Castro explains that their are two types of OKRs:
+Castro explains that there are two types of OKRs:
 
 ## Moonshots
 * Stretch goals.
