@@ -28,7 +28,7 @@ Duplicated code is problematic because it requires more maintenance and increase
 
 The more responsibilities a class has, the more likely it is to change. Each time a class changes, there’s a possibility it will break. Thus, giving classes a single responsibility greatly reduces the chance of our application unexpectedly breaking.
 
-A great way to determine if a class has a single responsibility is to try to describe it’s purpose in one sentence. If you cannot describe the class in a simple manner without the words “and” or “or”, the class likely has multiple responsibilities.
+A great way to determine if a class has a single responsibility is to try to describe its purpose in one sentence. If you cannot describe the class in a simple manner without the words “and” or “or”, the class likely has multiple responsibilities.
 
 It can be argued that when we make design decisions is nearly as important as which decisions we make. When the future cost of doing nothing is the same as the current cost, we should postpone decisions (because doing so does not result in technical debt while also bringing us closer to a future in which we have more information with which to make an informed decision).
 
