@@ -20,7 +20,7 @@ It would also be possible to lose the entire history of the project if the centr
 
 _Distributed Version Control Systems_ (DVCSs) mirror the full history of a repository rather than simply mirroring the most recent snapshot of files.
 
-The Linux development community (especially Linux’s founder Linus Torvalds) created GIT in 2005. The goals of GIT were:
+The Linux development community (especially Linux’s founder Linus Torvalds) created Git in 2005. The goals of Git were:
 
 - Speed
 - Simplicity
@@ -28,21 +28,21 @@ The Linux development community (especially Linux’s founder Linus Torvalds) cr
 - Fully distributed
 - Able to handle large projects efficiently
 
-SHA-1 hashes are 40-character strings GIT uses to ensure we never lose information in transit or corrupt files without GIT being able to detect it.
+SHA-1 hashes are 40-character strings Git uses to ensure we never lose information in transit or corrupt files without Git being able to detect it.
 
-GIT has three main states our files can reside in:
+Git has three main states our files can reside in:
 
 - **Modified** – a file has been changed but not yet committed to the database.
 - **Staged** – a modified file has been marked in its current version to go into our next commit snapshot.
 - **Committed** – a file’s data is safely stored in our local database.
 
-The three main sections of a GIT project are:
+The three main sections of a Git project are:
 
 1. The working tree
 1. The staging area (or in technical terms the “index”)
 1. The Git directory.
 
-We can use **git config** to configure different aspects of how GIT looks and operates. Using the _git config_ command we can configure the username/email associated with our commits, our default text editor, our default branch name and more!
+We can use **git config** to configure different aspects of how Git looks and operates. Using the _git config_ command we can configure the username/email associated with our commits, our default text editor, our default branch name and more!
 
 To get help for how to use a git command, we can use the following syntax:
 
