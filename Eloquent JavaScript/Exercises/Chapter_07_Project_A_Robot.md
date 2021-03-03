@@ -100,4 +100,19 @@ Once I read over the chapter again, and watched [this video](https://www.youtube
 
 **My solution:**
 
+Err... ummm... Yeah, I got nothing. I tried for 45 minutes or so, but didn't come away with much of anything concrete to show for my efforts.
+
+**Thoughts:**
+I logically reasoned that I could improve the _goalOrientedRobot_ by taking into account all of the parcels it needed to be delivered and finding the shortest route that encompassed each of the necessary points rather than calculating individual optimal routes.
+
+I then went through the code base and asked myself _what does this function do?_, _what does this variable do?_ until I had clearly defined and written down what a large portion of the code base did.
+
+Even despite this planning, however, I still couldn't think of a way to actually implement everything. :(
+
+---
+
+## Persistent group
+
+**My solution:**
+
 Coming soon...
