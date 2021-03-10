@@ -23,3 +23,17 @@ Here are my solutions for this chapter's exercises.
 **Thoughts:**
 
 With each one of these problems I solved, I felt more confident in my ability to write Regular Expressions. I also feel a lot more comfortable reading and analyizing others regular expressions (though I've found this is something that's asked of me pretty rarely even as a professional software developer).
+
+---
+
+## Quoting Style
+
+**My solution:**
+
+```
+console.log(text.replace(/'(?!\w\s)/g, "\""));
+```
+
+**Thoughts:**
+
+I found this exercise pretty simple to solve. Solving this problem, however, will surely help me remember that it's possible to perform very powerful operations by coming Regular Expressions with the _replace_ method.
