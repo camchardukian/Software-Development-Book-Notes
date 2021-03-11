@@ -37,3 +37,18 @@ console.log(text.replace(/'(?!\w\s)/g, "\""));
 **Thoughts:**
 
 I found this exercise pretty simple to solve. Solving this problem, however, will surely help me remember that it's possible to perform very powerful operations by coming Regular Expressions with the _replace_ method.
+
+---
+
+## Numbers Again
+
+**My solution:**
+
+```
+let number = /^[+-]?(\.?\d+|\d+\.?\d*)([Ee][+-]?[\d]+)?$/;
+```
+
+**Thoughts:**
+It took me quite a long time to put together this Regex. I overcomplicated things at first by thinking about how I could implement different lookaheads/lookbehinds.
+
+In the end, however, I was able to come up with this reasonably concise solution.
