@@ -1,4 +1,4 @@
-# Formatting
+# Chapter 5 -- Formatting
 
 ## The Purpose of Formatting
 

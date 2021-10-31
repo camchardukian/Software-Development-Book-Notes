@@ -1,4 +1,4 @@
-# Chapter 3 — Functions
+# Chapter 3 —- Functions
 
 ## Small
 

@@ -1,4 +1,4 @@
-# Chapter 7 Error Handling
+# Chapter 7 -- Error Handling
 
 A nice quote to start the chapter:
 

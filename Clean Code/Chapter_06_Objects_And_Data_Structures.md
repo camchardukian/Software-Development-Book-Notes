@@ -1,4 +1,4 @@
-# Objects and Data Structures
+# Chapter 6 -- Objects and Data Structures
 
 ## Data Abstraction
 
