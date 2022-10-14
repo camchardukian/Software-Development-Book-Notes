@@ -2,7 +2,7 @@
 
 ## Comments
 
-Almost anytime you see commented-out code you should just straight up delete it because if anyone were to eventually need this code they could just find it in the version control history.
+Almost anytime you see commented-out code you should simply delete it because if anyone were to eventually need this code they could just find it in the version control history.
 
 ## Environment
 
